@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# app migrations
+app/migrations
+
+#unknown files
+.idea/
